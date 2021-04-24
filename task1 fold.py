@@ -1,5 +1,3 @@
-# second commit test
-
 def foldl(f, x0, lst):
     if not lst:
         return x0
